@@ -32,9 +32,9 @@ The comparison revealed how subword models like BPE and WordPiece handle out-of-
 👥 Team Reflection
 Both assignments were completed collaboratively by:
 
-Aya Mamdouh Ahmed Elhabashy (ID: 22101087)
+Aya Mamdouh Ahmed Elhabashy 
 
-Rodina Mohamed Saeed Hassan (ID: 22101313)
+Rodina Mohamed Saeed Hassan 
 
 Each member contributed equally by splitting responsibilities across implementation, debugging, and analysis. The challenges faced—such as Tesseract configuration issues or BPE tokenizer tuning—were overcome through teamwork and iterative problem-solving.
 
